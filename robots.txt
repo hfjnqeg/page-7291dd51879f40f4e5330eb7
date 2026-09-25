@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.xn--xflash-u40k507h.com/sitemap.xml
